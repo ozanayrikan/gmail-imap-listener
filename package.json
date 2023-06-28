@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "base64-stream": "^1.0.0",
+    "dotenv": "^16.0.3",
+    "imap": "^0.8.19",
+    "mailparser": "^3.6.4",
+    "moment": "^2.29.4",
+    "nodemailer": "^6.9.1"
+  }
+}
